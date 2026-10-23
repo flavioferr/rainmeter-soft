@@ -2,6 +2,10 @@
 
 **Painéis em relevo (neumorfismo) com um termostato circular para o clima.**
 
+*Soft — Embossed panels (neumorphism) with a round thermostat for the weather.*
+
+Agora também em inglês · Now also in English · [English below](#english)
+
 Skin para o [Rainmeter](https://www.rainmeter.net), minimalista e com tela de configurações própria.
 
 ![Soft](docs/hero.png)
@@ -46,6 +50,7 @@ Instalação manual: copie a pasta [`Soft`](Soft) para `Documentos\Rainmeter\Ski
 
 ## Dicas
 
+- **Idioma:** botão direito em qualquer widget → **English** (ou o botão **EN** nas configurações). Para voltar, **Português**.
 - **Clima:** digite sua cidade nas configurações; as coordenadas são buscadas sozinhas (se não encontrar, tente sem acento). Os dados vêm do [Open-Meteo](https://open-meteo.com), gratuito e sem chave de API.
 - **Mover:** arraste os widgets com o mouse.
 - **Ajustes avançados:** o botão *Editar variáveis* abre o `@Resources/Variables.inc`.
@@ -69,6 +74,48 @@ Outras skins da mesma coleção:
 - [Pixel](https://github.com/flavioferr/rainmeter-pixel) — Um relógio em matriz de pontos numa tela de LCD retrô.
 - [Swiss](https://github.com/flavioferr/rainmeter-swiss) — Um pôster tipográfico suíço com horas gigantes e a faixa da semana.
 - [Island](https://github.com/flavioferr/rainmeter-island) — Uma pílula no topo da tela que se expande com animação ao passar o mouse.
+
+---
+
+## English
+
+**Soft** — Embossed panels (neumorphism) with a round thermostat for the weather.
+
+A minimalist skin for [Rainmeter](https://www.rainmeter.net) with its own settings screen, now in **English and Portuguese**.
+
+### Widgets
+
+| Widget | What it shows |
+|---|---|
+| **Panel** | Embossed (neumorphic) panel with time, date and system indicators. |
+| **Thermostat** | Current weather on an embossed knob; the arc goes from TMin to TMax degrees. |
+
+### Themes
+
+4 ready-made themes: Snow, Graphite, Sand, Mint.
+
+### Installation
+
+1. Install [Rainmeter](https://www.rainmeter.net) (4.5 or newer).
+2. Download [`Soft.rmskin`](https://github.com/flavioferr/rainmeter-soft/releases/latest) from the Releases page.
+3. Double-click the file and click **Install**.
+4. Right-click any widget and choose **English**. The whole suite switches language (and back with **Português**).
+
+### Tips
+
+- **Settings:** right-click any widget → **Settings** (there is also an **EN/PT** button next to the close button).
+- **Music:** the player reads everything in the Windows media controls — Spotify, YouTube, Netflix and any website in the browser, Apple Music, Deezer, VLC… The [WebNowPlaying](https://github.com/keifufu/WebNowPlaying-Rainmeter) plugin (MIT) is included in the `.rmskin`.
+- **Weather:** type your city in the settings; the coordinates are looked up automatically. Data from [Open-Meteo](https://open-meteo.com), free and without an API key.
+
+### Requirements
+
+Windows 10 or 11 and Rainmeter 4.5+. If the player stays empty, install the [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
+### License
+
+[CC BY-NC-SA 4.0](LICENSE.md) — use, modify and share with credit, non-commercially.
+
+---
 
 ## Licença
 
